@@ -11,6 +11,7 @@
         {
             "name: "Uni Ring",
             "email": "uniring@gmail.com"
+        }
     ],
     "require": {
         "php": ">=5.6.4",
